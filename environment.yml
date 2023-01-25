@@ -8,6 +8,7 @@ dependencies:
   - dm-tree
   - epics-base
   - epicscorelibs
+  - gcc_linux-64
   - greenlet
   - h5py
   - hdf5
