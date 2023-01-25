@@ -9,6 +9,7 @@ dependencies:
   - epics-base
   - epicscorelibs
   - gcc_linux-64
+  - gxx_linux-64
   - greenlet
   - h5py
   - hdf5
